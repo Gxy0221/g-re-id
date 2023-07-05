@@ -1,4 +1,5 @@
 # g-re-id
+Paper title:  A Novel Dual-pooling Attention Module for UAV Vehicle Re-identification
 
 # Dependencies
 
