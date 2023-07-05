@@ -11,8 +11,8 @@ yacs
 # Datasets
 ## Link
 The used datasets are available at:
-### VeRi-UAV [https://github.com/liuchunsense/VeRi-UAV]   
-### VRU  [https://github.com/GeoX-Lab/ReID]
+* VeRi-UAV [https://github.com/liuchunsense/VeRi-UAV]   
+* VRU  [https://github.com/GeoX-Lab/ReID]
 
 # Citation
 > @article{he2020fastreid,  
