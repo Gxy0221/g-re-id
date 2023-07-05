@@ -32,7 +32,7 @@ The used datasets are available at:
 >  year={2022},  
 >  publisher={MDPI}  
 }
- 
+
 > @article{liu2022posture,  
 >  title={Posture Calibration Based Cross-View \& Hard-Sensitive Metric Learning for UAV-Based Vehicle Re-Identification},  
 >  author={Liu, Chunsheng and Song, Ye and Chang, Faliang and Li, Shuang and Ke, Ruimin and Wang, Yinhai},  
