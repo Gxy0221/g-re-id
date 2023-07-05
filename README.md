@@ -5,7 +5,7 @@ Paper title:  A Novel Dual-pooling Attention Module for UAV Vehicle Re-identific
 Python == 3.7.16  
 PyTorch == 1.8.0  
 torchvision == 0.9.0  
-numpy == 1.21.6
+numpy == 1.21.6  
 yacs == 0.1.8   
 
 # Datasets
