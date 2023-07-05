@@ -1,5 +1,5 @@
 ## Datasets
-The used datasets are available at:
+The paper uses two UAV-based vehicle re-identification datasets, and the datasets used are available at:
 
 * VeRi-UAV [https://github.com/liuchunsense/VeRi-UAV]
 * VRU [https://github.com/GeoX-Lab/ReID]
