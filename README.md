@@ -2,11 +2,12 @@
 Paper title:  A Novel Dual-pooling Attention Module for UAV Vehicle Re-identification
 
 # Dependencies
+Python = 3.7
 
-Python >= 3.5
-
-PyTorch >= 0.4.0
+PyTorch = 1.8.0
 
 torchvision
 
 numpy
+
+yacs 
