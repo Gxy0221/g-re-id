@@ -1,20 +1,23 @@
 # g-re-id  
 Paper title:  A Novel Dual-pooling Attention Module for UAV Vehicle Re-identification
 
-# Dependencies
+## Environment Settings
 Python == 3.7.16  
 PyTorch == 1.8.0  
 torchvision == 0.9.0  
 numpy == 1.21.6  
 yacs == 0.1.8   
+## Usage
+You can run our network model using the following command:
+> python main.py
 
-# Datasets
-## Link
+## Datasets
+### Link
 The used datasets are available at:
 * VeRi-UAV [https://github.com/liuchunsense/VeRi-UAV]   
 * VRU  [https://github.com/GeoX-Lab/ReID]
 
-# Citation
+## Citation
 > @article{he2020fastreid,  
 >  title={FastReID: A Pytorch Toolbox for General Instance Re-identification},  
 >  author={He, Lingxiao and Liao, Xingyu and Liu, Wu and Liu, Xinchen and Cheng, Peng and Mei, Tao},  
