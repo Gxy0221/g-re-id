@@ -11,10 +11,8 @@ yacs
 # Datasets
 ## Link
 The used datasets are available at:
-### VeRi-UAV    
-[VeRi-UAV](https://github.com/liuchunsense/VeRi-UAV)   
-### VRU 
-[VRU](https://github.com/GeoX-Lab/ReID)   
+### VeRi-UAV [https://github.com/liuchunsense/VeRi-UAV]   
+### VRU  [https://github.com/GeoX-Lab/ReID]
 
 # Citation
 > @article{he2020fastreid,  
@@ -23,6 +21,7 @@ The used datasets are available at:
 >  journal={arXiv preprint arXiv:2006.02631},  
 >  year={2020}  
 }
+
 > @article{lu2022vehicle,  
 >  title={Vehicle Re-Identification Based on UAV Viewpoint: Dataset and Method},  
 >  author={Lu, Mingming and Xu, Yongchuan and Li, Haifeng},  
@@ -32,7 +31,8 @@ The used datasets are available at:
 >  pages={4603},  
 >  year={2022},  
 >  publisher={MDPI}  
->}
+}
+ 
 > @article{liu2022posture,  
 >  title={Posture Calibration Based Cross-View \& Hard-Sensitive Metric Learning for UAV-Based Vehicle Re-Identification},  
 >  author={Liu, Chunsheng and Song, Ye and Chang, Faliang and Li, Shuang and Ke, Ruimin and Wang, Yinhai},  
@@ -42,4 +42,4 @@ The used datasets are available at:
 >  pages={19246--19257},  
 >  year={2022},  
 >  publisher={IEEE}  
->}
+}
