@@ -1,5 +1,5 @@
 # g-re-id  
-#### Paper title:  A Novel Dual-pooling Attention Module for UAV Vehicle Re-identification
+#### Our paper title: A Novel Dual-pooling Attention Module for UAV Vehicle Re-identification
 
 ## Environment Settings
 Python == 3.7.16  
