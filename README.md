@@ -13,8 +13,8 @@ numpy
 yacs 
 
 # Dataset Acquisition
-# VeRi-UAV
-# VRU
+VeRi-UAV:
+VRU:
 
 # Citation
 @article{he2020fastreid,
